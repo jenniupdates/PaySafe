@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987489061399",
+    "project_id": "paysafe-956e9",
+    "storage_bucket": "paysafe-956e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987489061399:android:e3d940bd69f3d27af92a52",
+        "android_client_info": {
+          "package_name": "com.eaxmple.image_to_text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987489061399-iq1hdb9uhvvhnbd45lrdnirdr4u46fi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzX9ZupeXUcpwJlxVcbDVt3nhGHudzELM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987489061399-iq1hdb9uhvvhnbd45lrdnirdr4u46fi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
