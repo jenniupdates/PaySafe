@@ -36,8 +36,10 @@ Our main feature lets our audience know what they are “looking” at via the s
 6. As we worked using Windows Environment, we do apologise if there are any MacOS difficulties. Nevertheless, please email us at: yinshan.lim.2019@scis.smu.edu.sg for help during installations and running the code part.
 7. Once you run flutter doctor and all ticks, means you can now run the app.
 > <b>Running the App</b>
-8. Open Android Studio, connect an android device to your computer/laptop and run it as emulator.
-9. Lastly, open Visual Studio Code and run the main.dart file using: <flutter run --no-sound-null-safety>.
+8. !!!!! Register for a Google Cloud Platform API key and retrieve your API key under credentials.
+9. Head into the file: paysafev3/android/app/src/main/**AndroidManifest.xml**, and on line 34, replace the curly braces {API_KEY} with your own GCP API key credential.
+12. Open Android Studio, connect an android device to your computer/laptop and run it as emulator.
+13. Lastly, open Visual Studio Code and run the main.dart file using: <flutter run --no-sound-null-safety>.
 > Your android phone should see the app, named "PaySafev3".
 
 ## Thank you.
