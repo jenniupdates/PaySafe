@@ -1,7 +1,7 @@
 
 # PaySafe
 
-A new Flutter & Firebase project to create a more inclusive and safer payment journey for the blind and visually-impaired community.
+A new Flutter & Firebase project to create a more inclusive and safer payment journey for the blind and visually-impaired community. Also for Google Solution Challenge 2022
 
 ## Description
 
