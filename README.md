@@ -43,7 +43,7 @@ Our main feature lets our audience know what they are “looking” at via the s
 > Your android phone should see the app, named "PaySafev3".
 
 ## Thank you.
-- My team: Esther, Shun Hui, Trisha, Yin Shan
+- Done by: : Lim Yin Shan
   
 ## Going Forward
   
