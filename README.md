@@ -11,7 +11,7 @@ The main feature lets the target audience know what they are “looking” at vi
 
 > Ultimately, this blind-friendly and accessible app helps the visually-impaired community access online payment solutions and make safer transactions.
 
-## Features
+## Features (some incomplete)
 - Online Payment services/options (Stripe, etc)
 - OCR Scanner and Reader (Image-to-text)
 - Find nearby Volunteers
